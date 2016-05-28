@@ -1,0 +1,9 @@
+C:\_Source\AGL_Demo1\AGL_Demo\AGLPetApiClientTests\bin\Debug\AGLPetApiClientTests.dll
+C:\_Source\AGL_Demo1\AGL_Demo\AGLPetApiClientTests\bin\Debug\AGLPetApiClientTests.pdb
+C:\_Source\AGL_Demo1\AGL_Demo\AGLPetApiClientTests\bin\Debug\FakeItEasy.dll
+C:\_Source\AGL_Demo1\AGL_Demo\AGLPetApiClientTests\bin\Debug\nunit.framework.dll
+C:\_Source\AGL_Demo1\AGL_Demo\AGLPetApiClientTests\bin\Debug\FakeItEasy.xml
+C:\_Source\AGL_Demo1\AGL_Demo\AGLPetApiClientTests\bin\Debug\nunit.framework.xml
+C:\_Source\AGL_Demo1\AGL_Demo\AGLPetApiClientTests\obj\Debug\AGLPetApiClientTests.csprojResolveAssemblyReference.cache
+C:\_Source\AGL_Demo1\AGL_Demo\AGLPetApiClientTests\obj\Debug\AGLPetApiClientTests.dll
+C:\_Source\AGL_Demo1\AGL_Demo\AGLPetApiClientTests\obj\Debug\AGLPetApiClientTests.pdb

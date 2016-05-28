@@ -1,3 +1,3 @@
-*
-!repositories.config
+**/packages/*
+!**/packages/repositories.config
 !.gitignore

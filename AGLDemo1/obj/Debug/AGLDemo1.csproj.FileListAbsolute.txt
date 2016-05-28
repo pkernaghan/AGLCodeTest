@@ -1,0 +1,9 @@
+c:\users\paul\documents\visual studio 2013\Projects\AGLDemo1\AGLDemo1\bin\Debug\AGLDemo1.exe.config
+C:\_Source\AGL_Demo1\AGL_Demo\AGLDemo1\bin\Debug\AGLDemo1.exe.config
+C:\_Source\AGL_Demo1\AGL_Demo\AGLDemo1\bin\Debug\AGLDemo1.exe
+C:\_Source\AGL_Demo1\AGL_Demo\AGLDemo1\bin\Debug\AGLDemo1.pdb
+C:\_Source\AGL_Demo1\AGL_Demo\AGLDemo1\obj\Debug\AGLDemo1.csprojResolveAssemblyReference.cache
+C:\_Source\AGL_Demo1\AGL_Demo\AGLDemo1\obj\Debug\AGLDemo1.exe
+C:\_Source\AGL_Demo1\AGL_Demo\AGLDemo1\obj\Debug\AGLDemo1.pdb
+C:\_Source\AGL_Demo1\AGL_Demo\AGLDemo1\bin\Debug\Newtonsoft.Json.dll
+C:\_Source\AGL_Demo1\AGL_Demo\AGLDemo1\bin\Debug\Newtonsoft.Json.xml
