@@ -1,14 +1,6 @@
-C:\_Source\AGL_Demo1\AGL_Demo\AGLPetApiClientTests\bin\Debug\AGLPetApiClientTests.dll
-C:\_Source\AGL_Demo1\AGL_Demo\AGLPetApiClientTests\bin\Debug\AGLPetApiClientTests.pdb
-C:\_Source\AGL_Demo1\AGL_Demo\AGLPetApiClientTests\bin\Debug\FakeItEasy.dll
-C:\_Source\AGL_Demo1\AGL_Demo\AGLPetApiClientTests\bin\Debug\nunit.framework.dll
-C:\_Source\AGL_Demo1\AGL_Demo\AGLPetApiClientTests\bin\Debug\FakeItEasy.xml
-C:\_Source\AGL_Demo1\AGL_Demo\AGLPetApiClientTests\bin\Debug\nunit.framework.xml
-C:\_Source\AGL_Demo1\AGL_Demo\AGLPetApiClientTests\obj\Debug\AGLPetApiClientTests.csprojResolveAssemblyReference.cache
-C:\_Source\AGL_Demo1\AGL_Demo\AGLPetApiClientTests\obj\Debug\AGLPetApiClientTests.dll
-C:\_Source\AGL_Demo1\AGL_Demo\AGLPetApiClientTests\obj\Debug\AGLPetApiClientTests.pdb
-C:\_Source\AGL_CodeTest\AGLPetApiClientTests\obj\Debug\AGLPetApiClientTests.csprojResolveAssemblyReference.cache
+C:\_Source\AGL_CodeTest\AGLPetApiClientTests\obj\Debug\AGLPetApiConsumerTests.csprojResolveAssemblyReference.cache
 C:\_Source\AGL_CodeTest\AGLPetApiClientTests\obj\Debug\AGLPetApiClientTests.dll
+C:\_Source\AGL_CodeTest\AGLPetApiClientTests\obj\Debug\AGLPetApiClientTests.pdb
 C:\_Source\AGL_CodeTest\AGLPetApiClientTests\bin\Debug\AGLPetApiClientTests.dll
 C:\_Source\AGL_CodeTest\AGLPetApiClientTests\bin\Debug\AGLPetApiClientTests.pdb
 C:\_Source\AGL_CodeTest\AGLPetApiClientTests\bin\Debug\AGLDemo1.exe
@@ -28,4 +20,3 @@ C:\_Source\AGL_CodeTest\AGLPetApiClientTests\bin\Debug\Serilog.FullNetFx.xml
 C:\_Source\AGL_CodeTest\AGLPetApiClientTests\bin\Debug\Serilog.Sinks.Seq.pdb
 C:\_Source\AGL_CodeTest\AGLPetApiClientTests\bin\Debug\Serilog.Sinks.Seq.xml
 C:\_Source\AGL_CodeTest\AGLPetApiClientTests\bin\Debug\Newtonsoft.Json.xml
-C:\_Source\AGL_CodeTest\AGLPetApiClientTests\obj\Debug\AGLPetApiClientTests.pdb

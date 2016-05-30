@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace AGLPetApiClient.Models
+namespace AGLPetApiConsumer.Models
 {
     public class PetOwner
     {

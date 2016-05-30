@@ -2,7 +2,7 @@
 using System.Configuration;
 using Serilog;
 
-namespace AGLPetApiClient.Common
+namespace AGLPetApiConsumer.Common
 {
     public static class ConfigManager
     {
@@ -15,7 +15,7 @@ namespace AGLPetApiClient.Common
             }
             catch (ConfigurationErrorsException ex)
             {
-                Log.Logger.Error(ex, @"Error: AGLPetApiClient. Error reading app settings. Could not find value for the key: {key}", key);
+                Log.Logger.Error(ex, @"Error: AGLPetApiConsumer. Error reading app settings. Could not find value for the key: {key}", key);
 
                 throw;
             }

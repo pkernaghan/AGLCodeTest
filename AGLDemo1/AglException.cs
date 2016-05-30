@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AGLPetApiClient
+namespace AGLPetApiConsumer
 {
     public class AglException : Exception
     {

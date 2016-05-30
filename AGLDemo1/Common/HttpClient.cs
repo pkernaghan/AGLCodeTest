@@ -4,7 +4,7 @@ using System.Net;
 using Newtonsoft.Json;
 using Serilog;
 
-namespace AGLPetApiClient.Common
+namespace AGLPetApiConsumer.Common
 {
     public static class HttpClient
     {
@@ -41,7 +41,7 @@ namespace AGLPetApiClient.Common
             catch (Exception ex)
             {
                 Log.Logger.Error(ex,
-                    @"AGLPetApiClientError HttpClient error. Unable to parse http response where response is {response}.  Please ensure apiUrl is correctly configured and endpoint is available.",
+                    @"AGLPetApiConsumerError HttpClient error. Unable to parse http response where response is {response}.  Please ensure apiUrl is correctly configured and endpoint is available.",
                     webResponse);
 
                 throw;

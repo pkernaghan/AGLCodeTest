@@ -1,4 +1,4 @@
-﻿namespace AGLPetApiClient.Models
+﻿namespace AGLPetApiConsumer.Models
 {
     public class Pet
     {

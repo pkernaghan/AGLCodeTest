@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AGLPetApiClient
+namespace AGLPetApiConsumer
 {
     class Program
     {
@@ -10,9 +10,9 @@ namespace AGLPetApiClient
             
             Console.WriteLine(@"Please wait whilst the results are being retreived....");
 
-            var aglPetApiClient = new AGLPetApiClient();
+            var aglPetApiConsumer = new AGLPetApiConsumer();
 
-            aglPetApiClient.PrintFormattedPetNamesWhereAnimalType(@"");
+            aglPetApiConsumer.PrintFormattedPetNamesWhereAnimalType();
 
             Console.ReadLine();
         }
